@@ -1,0 +1,4 @@
+﻿  source21.c
+c:\users\administrator\source\repos\ex01\ex01\source21.c(1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+  c:\users\administrator\source\repos\ex01\ex01\source21.c: note: '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+  ex01.vcxproj -> C:\Users\Administrator\source\repos\ex01\Debug\ex01.exe
