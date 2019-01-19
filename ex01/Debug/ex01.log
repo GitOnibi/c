@@ -1,6 +1,4 @@
-﻿  source29.c
-c:\users\administrator\source\repos\ex01\ex01\source29.c(1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
-  c:\users\administrator\source\repos\ex01\ex01\source29.c: note: '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
-c:\users\administrator\source\repos\ex01\ex01\source29.c(17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-c:\users\administrator\source\repos\ex01\ex01\source29.c(8): warning C4101: 'tmp' :참조되지 않은 지역 변수입니다.
+﻿  source38.c
+c:\users\administrator\source\repos\ex01\ex01\source38.c(1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+  c:\users\administrator\source\repos\ex01\ex01\source38.c: note: '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
   ex01.vcxproj -> C:\Users\Administrator\source\repos\ex01\Debug\ex01.exe

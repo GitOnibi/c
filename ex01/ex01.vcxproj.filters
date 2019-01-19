@@ -102,5 +102,29 @@
     <ClCompile Include="source30.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="source31.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="source32.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="source33.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="source34.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="source35.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="source36.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="source37.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="source38.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
