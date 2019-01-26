@@ -1,4 +1,8 @@
-﻿  source38.c
-c:\users\administrator\source\repos\ex01\ex01\source38.c(1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
-  c:\users\administrator\source\repos\ex01\ex01\source38.c: note: '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+﻿  source48.c
+c:\users\administrator\source\repos\ex01\ex01\source48.c(1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+  c:\users\administrator\source\repos\ex01\ex01\source48.c: note: '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+c:\users\administrator\source\repos\ex01\ex01\source48.c(16): warning C4477: 'scanf' : 서식 문자열 '%1f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
+  c:\users\administrator\source\repos\ex01\ex01\source48.c(16): note: 서식 문자열에서 '%lf'을(를) 사용하는 것이 좋습니다.
+c:\users\administrator\source\repos\ex01\ex01\source48.c(18): warning C4477: 'scanf' : 서식 문자열 '%1f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
+  c:\users\administrator\source\repos\ex01\ex01\source48.c(18): note: 서식 문자열에서 '%lf'을(를) 사용하는 것이 좋습니다.
   ex01.vcxproj -> C:\Users\Administrator\source\repos\ex01\Debug\ex01.exe
