@@ -156,5 +156,26 @@
     <ClCompile Include="source48.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="source50.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="source51.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="source52.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="source53.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="source54.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="source55.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="source56.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
